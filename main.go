@@ -8,6 +8,8 @@ package main
 
 # test 4
 
+# test 7
+
 import (
 	"encoding/json"
 	"fmt"
