@@ -57,3 +57,5 @@ func fib() func() int {
 		return a
 	}
 }
+
+#test3
