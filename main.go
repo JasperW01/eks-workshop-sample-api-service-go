@@ -4,6 +4,8 @@ package main
 
 # test2
 
+# test 3
+
 import (
 	"encoding/json"
 	"fmt"
