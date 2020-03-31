@@ -59,3 +59,5 @@ func fib() func() int {
 }
 
 #test3
+
+#test4
