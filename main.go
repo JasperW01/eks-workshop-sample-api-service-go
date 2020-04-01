@@ -16,6 +16,8 @@ package main
 
 # test1 - create divergent
 
+# in test 1 branch, create divergent
+
 import (
 	"encoding/json"
 	"fmt"
