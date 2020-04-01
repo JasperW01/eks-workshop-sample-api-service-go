@@ -1,6 +1,8 @@
 package main
 
 # hotfix email address
+#issue 53 
+# issue 53 - finish the new footer
 
 #test
 
