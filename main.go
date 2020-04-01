@@ -12,11 +12,7 @@ package main
 
 # test 4
 
-# test 7
-
-# test1 - create divergent
-
-# in test 1 branch, create divergent
+# Test FETCH_HEAD
 
 import (
 	"encoding/json"
