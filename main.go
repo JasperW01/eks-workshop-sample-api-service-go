@@ -14,6 +14,8 @@ package main
 
 # test 7
 
+# in test 1 branch, create divergent
+
 import (
 	"encoding/json"
 	"fmt"
