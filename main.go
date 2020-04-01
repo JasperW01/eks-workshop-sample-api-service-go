@@ -14,6 +14,8 @@ package main
 
 # test 7
 
+# test1 - create divergent
+
 import (
 	"encoding/json"
 	"fmt"
