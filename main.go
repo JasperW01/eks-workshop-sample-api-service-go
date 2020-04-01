@@ -8,6 +8,8 @@ package main
 
 # test 4
 
+# Test FETCH_HEAD
+
 import (
 	"encoding/json"
 	"fmt"
